@@ -15,7 +15,6 @@ class Loginpage{
     async enterPassword(){
         await this.password.fill("vishnu@2000")
     }
-    async clickButton(){
-        await this.buuton.click()
+ 
     }
 }   
